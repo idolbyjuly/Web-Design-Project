@@ -1,3 +1,7 @@
+/*
+Author: Lai Jiang
+*/
+
 var key={
 	a:false,
 	d:false,
